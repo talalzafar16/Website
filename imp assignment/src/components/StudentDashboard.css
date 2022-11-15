@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.outer{
+  display:flex;
+  position: relative;
+  background-color:#FBEAEB;
+  height:624.6px;
+  width:2200px;
+  display:flex;
+}
+.drawer{
+  position: relative;
+  width:170px;
+  background-color: #2F3C7E;
+}
+.appbar{
+  position: fixed;
+  height:96px;
+  width:100%;
+  background-color: #2F3C7E;
+}
+.whiteBox{
+  background-color: white;
+  height:96px;
+  width:169px;
+}
